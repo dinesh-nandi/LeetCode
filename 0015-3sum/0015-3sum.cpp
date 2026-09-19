@@ -9,7 +9,6 @@ public:
 
         for (int i = 0; i < n - 2; i++) {
 
-            // Skip duplicate first element
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
@@ -27,13 +26,11 @@ public:
 
                     j++;
                     k--;
-
-                    // Skip duplicate left values
+                    
                     while (j < k && nums[j] == nums[j - 1]) {
                         j++;
                     }
 
-                    // Skip duplicate right values
                     while (j < k && nums[k] == nums[k + 1]) {
                         k--;
                     }
