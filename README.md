@@ -13,6 +13,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | ------- |
 | [0001-two-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dinesh-nandi/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -23,11 +24,13 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dinesh-nandi/LeetCode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/dinesh-nandi/LeetCode/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
