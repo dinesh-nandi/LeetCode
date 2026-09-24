@@ -17,6 +17,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dinesh-nandi/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/dinesh-nandi/LeetCode/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -46,4 +47,16 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dinesh-nandi/LeetCode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
