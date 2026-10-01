@@ -25,6 +25,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dinesh-nandi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/dinesh-nandi/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -58,10 +59,15 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dinesh-nandi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/dinesh-nandi/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dinesh-nandi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
