@@ -21,6 +21,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | [0283-move-zeroes](https://github.com/dinesh-nandi/LeetCode/tree/master/0283-move-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/dinesh-nandi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/dinesh-nandi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/dinesh-nandi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,10 +66,12 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dinesh-nandi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/dinesh-nandi/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/dinesh-nandi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/dinesh-nandi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
 | ------- |
