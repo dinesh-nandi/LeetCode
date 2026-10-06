@@ -1,8 +1,8 @@
 class Solution {
 public:
-    bool fun(vector<int> &have, vector<int> &need){
-        for(int i=0; i<256; i++){
-            if(have[i]<need[i]){
+    bool func(vector<int> &have, vector<int> &need){
+        for(int i =0; i<256; i++){
+            if(have[i] < need[i]){
                 return false;
             }
         }
@@ -15,11 +15,10 @@ public:
         vector<int> have(256,0);
         vector<int> need(256,0);
 
-        int i;
         if(n < m)
             return "";
         
-        for(i=0; i<m; i++){
+        for(int i=0; i<m; i++){
             need[t[i]]++;
         }
 
@@ -28,11 +27,11 @@ public:
         int result = INT_MAX;
         int start = -1;
 
-        for(high=0; high<n; high++){
+        for(high = 0; high < n; high++){
             have[s[high]]++;
-            while(fun(have,need)){
+            while(func(have,need)){
                 int len = high-low+1;
-                if(result>len){
+                if(result > len){
                     result = len;
                     start = low;
                 }
@@ -40,7 +39,7 @@ public:
                 low++;
             }
         }
-        if(result==INT_MAX){
+        if(result == INT_MAX){
             return "";
         }
         return s.substr(start,result);
