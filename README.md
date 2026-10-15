@@ -19,6 +19,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | [0075-sort-colors](https://github.com/dinesh-nandi/LeetCode/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/dinesh-nandi/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0643-maximum-average-subarray-i](https://github.com/dinesh-nandi/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/dinesh-nandi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -42,6 +43,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | [0075-sort-colors](https://github.com/dinesh-nandi/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/dinesh-nandi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/dinesh-nandi/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/dinesh-nandi/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -63,6 +65,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dinesh-nandi/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/dinesh-nandi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -94,4 +97,13 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dinesh-nandi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
