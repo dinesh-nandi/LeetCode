@@ -31,6 +31,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dinesh-nandi/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/dinesh-nandi/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/dinesh-nandi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/dinesh-nandi/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/dinesh-nandi/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
@@ -42,6 +43,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | [0027-remove-element](https://github.com/dinesh-nandi/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/dinesh-nandi/LeetCode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/dinesh-nandi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/dinesh-nandi/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/dinesh-nandi/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -97,6 +99,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/dinesh-nandi/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -106,4 +109,8 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/dinesh-nandi/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
