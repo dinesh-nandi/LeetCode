@@ -26,6 +26,7 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | [0904-fruit-into-baskets](https://github.com/dinesh-nandi/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/dinesh-nandi/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/dinesh-nandi/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dinesh-nandi/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,4 +125,5 @@ I'm solving problems pattern-wise to improve problem-solving skills and prepare 
 | ------- |
 | [0053-maximum-subarray](https://github.com/dinesh-nandi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/dinesh-nandi/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/dinesh-nandi/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
